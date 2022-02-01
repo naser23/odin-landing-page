@@ -158,7 +158,7 @@ a {
 }
 
 .text-area {
-  width: 70%;
+  width: 60%;
 }
 
 .quote {
@@ -167,4 +167,7 @@ a {
 
 .author {
   text-align: right;
+  font-weight: 700;
+  font-weight: bold;
+  font-size: 1.5rem;
 }
