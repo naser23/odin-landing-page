@@ -219,3 +219,12 @@ a:hover {
   background-color: lightblue;
   color: gray;
 }
+
+.footer {
+  width: 100%;
+  background-color: #1f2937;
+  color: white;
+  font-weight: 700;
+  padding: 3rem 0;
+  text-align: center;
+}
